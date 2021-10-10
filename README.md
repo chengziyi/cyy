@@ -1,6 +1,8 @@
 # cyy
 use_python_implement_a_programming_language
 
+python 3.6+
+
 尝试用python实现一个基本可用的编程语言，分阶段进行中：
 
 **Stage 1:**
