@@ -1,0 +1,6 @@
+//声明一个函数
+function sayHello(){
+	println("Hello World!");
+}
+//调用刚才声明的函数
+sayHello();

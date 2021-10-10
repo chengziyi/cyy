@@ -1,0 +1,10 @@
+
+//计算圆的面积
+function circleArea(r : number):number{
+  let area : number = 3.14*r*r;
+  return area;
+}
+let r:number =4;
+println("r=" + r +", area="+circleArea(r));
+r = 5;
+println("r=" + r +", area="+circleArea(r));
